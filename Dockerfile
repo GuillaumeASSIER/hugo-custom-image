@@ -1,4 +1,4 @@
-FROM peaceiris/hugo:v0.133.1-full
+FROM peaceiris/hugo:v0.134.1-full
 
 # Installing just
 RUN apt-get update && apt-get -y install lsb-release
